@@ -1,0 +1,65 @@
+html, body {
+    font-family: Arial;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 10px;
+    padding-left: 50px;
+    width: 100%;
+    height: 100%;
+}
+
+.top {
+    height: 300px;
+    width: 100%;
+}
+
+.btn {
+    background-color: #52AE45;
+    color: white;
+    text-align: center;
+    border-radius: 50pc;
+    padding: 5px 10px 5px 10px;
+}
+
+.btn-group {
+    width: 400px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 300px;
+}
+
+.btn-group .btn {
+    margin-left: 25px;
+}
+
+.info {
+    font-weight: bold;
+    width: 40%;
+    text-align: center;
+    float: left;
+}
+
+.bar {
+    height: 250px;
+    width: 2px;
+    background-color: gray;
+    position: absolute;
+    top: 250px;
+    left: 50%;
+}
+
+.signup {
+    width: 200px;
+    position: absolute;
+    top: 220px;
+    left: 60%;
+}
+
+input {
+    width: 100%;
+}
