@@ -25,3 +25,8 @@ td {
 td {
 	padding: 10px;
 }
+
+.link {
+	color: blue;
+	text-decoration: underline;
+}

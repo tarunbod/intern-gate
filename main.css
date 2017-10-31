@@ -95,3 +95,7 @@ select {
 table, td, tr {
     border: 1px solid black;
 }
+
+.resume {
+    padding-left: 20px;
+}
