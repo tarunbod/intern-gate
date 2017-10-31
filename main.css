@@ -4,6 +4,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background-color: #f3fffe;
 }
 
 .container {
@@ -11,6 +12,11 @@ html, body {
     padding-left: 50px;
     width: 100%;
     height: 100%;
+}
+
+.container.profile {
+    padding: 0;
+    padding-top: 10px;
 }
 
 .top {
@@ -61,5 +67,18 @@ html, body {
 }
 
 input {
+    width: 100%;
+}
+
+a {
+    color: white;
+}
+
+.profile-page {
+    width: 250px;
+    margin: 0 auto;
+}
+
+select {
     width: 100%;
 }
