@@ -86,3 +86,8 @@ a {
 select {
     width: 100%;
 }
+
+.invisible {
+    position: absolute;
+    right: 0;
+}
