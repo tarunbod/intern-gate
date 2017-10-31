@@ -16,3 +16,12 @@ h1 {
 h4 {
 	font-size: 2em;
 }
+
+td {
+	font-size: 26px;
+	border: 1px solid black;
+}
+
+td {
+	padding: 10px;
+}

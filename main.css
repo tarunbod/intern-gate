@@ -91,3 +91,7 @@ select {
     position: absolute;
     right: 0;
 }
+
+table, td, tr {
+    border: 1px solid black;
+}
