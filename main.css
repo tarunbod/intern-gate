@@ -32,6 +32,10 @@ html, body {
     padding: 5px 10px 5px 10px;
 }
 
+.profile-page .btn {
+    margin: auto;
+}
+
 .btn-group {
     width: 400px;
     float: right;
