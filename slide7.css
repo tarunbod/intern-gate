@@ -1,0 +1,29 @@
+* {
+	background-color: #f3fffe;
+}
+
+#matches {
+	margin-bottom: 10px;
+}
+
+.label {
+	margin: 0;
+	font-weight: bold;
+	display: inline-block;
+}
+.filler {
+	margin: 0;
+	font-weight: 100;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+.row {
+	margin-bottom: 10px;
+}
+button {
+	color: white;
+	border-radius: 50px;
+	outline: none;
+	background-color: #52AE45;
+}
