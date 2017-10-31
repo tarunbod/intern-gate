@@ -28,3 +28,8 @@ button {
 	outline: none;
 	background-color: #52AE45;
 }
+
+a {
+	color: white;
+	text-decoration: none;
+}
